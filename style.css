@@ -23,7 +23,7 @@
 .conteiner {
   min-height: 100vh;
   background-image: linear-gradient(rgba(30, 7, 29, 0.5), rgba(30, 7, 29, 0.5)),
-    url(../hero.jpg);
+    url(hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
